@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yBD7C/V/W1o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maria\\poo7e\\poo7e.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria\\.nuget\\packages\\dapper\\2.1.89\\dapper.2.1.89.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
